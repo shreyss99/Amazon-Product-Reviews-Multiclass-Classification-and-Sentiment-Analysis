@@ -1,1 +1,2 @@
-# Amazon-Product-Reviews-Multiclass-Classification-and-Sentiment-Analysis
+# CategorEase 
+Amazon-Product-Reviews-Multiclass-Classification-and-Sentiment-Analysis
